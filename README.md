@@ -78,6 +78,7 @@ int main()
 	printf("this is commit 1");
 	printf("this is commit 3");
 	printf("this is commit 5");
+	printf("this is commit 6");
 
 }
 
