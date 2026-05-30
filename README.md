@@ -76,6 +76,8 @@ Use reset to **remove this commit**.
 int main()
 {
 	printf("this is commit 1");
+	printf("this is commit 3");
+ 
 }
 
 
