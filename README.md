@@ -1,7 +1,6 @@
-# Autonomous Ground Vehicle Research Group
 ## Git/Github Tasks
 
-AGV Introductory Tasks: [ROS + Git Tasks](https://docs.google.com/document/d/1qB52Gc9wp9AnijAUdmTTTuANuoRfPfMC2oy5u0SS7iQ/edit?usp=sharing)
+AGV Introductory Tasks: [ROS + Git Tasks](https://docs.google.com/document/d/1SA3oEYCuS8NRoyjZ1SI9gP7eZIXaP0zw11KbYqDuHo8/edit?tab=t.0#heading=h.535avltkzpqt)
 
 # Why Git?
 
@@ -42,14 +41,41 @@ Your entry should maintain alphabetic order and it should be in the format:
 ### Entries
 
 ENTER NAMES HERE \
+Harshit Rana [harshit7744](http://github.com/harshit7744) \
+Aditya Roy [AdityaR17](http://github.com/AdityaR17) \
+Ayushman Sahoo [ayushman020908](https://github.com/ayushman020908) \
+Debanshu Das [DebanshuDas](https://github.com/DebanshuDas) \
+Shaurya Gupta[Coder0407](https://github.com/Coder0407/Git-Task-2026) \
+Luv Anand [Luv-Anand](http://github.com/Luv-Anand) \
+Somil Goyal [SomilGoyal164](http://github.com/SomilGoyal164) \
+Samantak Karmakar [samantakk](http://github.com/samantakk) \
+Kanishkk Kingwani [Kanishkk-Kingwani](http://github.com/Kanishkk-Kingwani) \
+Vishwa Pandya [vishwa-pandya](https://github.com/vishwa-pandya) \
+Yatharth Singh [yatharthsing](http://github.com/yatharthsing) \
+Atreyi Pal Chowdhury [palchowdhuryatreyi06-collab](http://github.com/palchowdhuryatreyi06-collab) \
+SaiAmrit [sas-987](https://github.com/sas-987/Git-Task-2026) \
+Subhashree Mohanty [subhashreemohanty1507](https://github.com/subhashreemohanty1507) \
+Mukesh Nikap [mukeshnikap-dotcom](https://github.com/mukeshnikap-dotcom) \
+RupashiBansal [rupashibansal1298](http://github.com/rupashibansal1298) \
+Ayush Patnaik [patnaikayush425-cyber](http://github.com/patnaikayush425-cyber) \
+Disha Bhavsar [dishabhavsar-25](http://github.com/dishabhavsar-25) \
+Kharanshu Dash [kharanshuuuu](http://github.com/kharanshuuuu) \
+Ahan Porwal [ahanporwal](http://github.com/ahanporwal) \
+saswat saiprasad kar [saswatskar](http://github.com/saswatskar) \
+Ruhi Shanbhag [ruhishan](http://github.com/ruhishan) \
+Viraat Alegaonkar https://github.com/viraat240507 \
+Arpit Aggarwal [arpitaggarwal9584](http://github.com/arpitaggarwal0584) \
+Aashi Asmita [aashiasmita1357](http://github.com/aashiasmita1357) \
+Sambit Mukhopadhyay [SambitMukhopadhyay](http://github.com/SambitMukhopadhyay) \
+Kashyap Tandel [kashyaptandel1](http://github.com/kashyaptandel1) \
+Aashna [aashna0908](http://github.com/aashna0908) \
+Rudraksh Gupta [rudraksh168](https://github.com/rudraksh168) \
+Nakul Patil [Skywalker-812](https://github.com/Skywalker-812) \
+Rudraksh Gupta [rudraksh168](https://github.com/rudraksh168) \
+Amishee Surya [ambro234](https://github.com/ambro234) \
+Riddhima Verma (https://github.com/volatileserpent) \
+Amarendra Swain [Amarendra-Swain](https://github.com/Amarendra-Swain) \
 Viraat Alegaonkar[viraat240507](https://github.com/viraat240507)
-Arpit Aggarwal [arpitaggarwal9584](http://github.com/arpitaggarwal0584)
-Aashi Asmita [aashiasmita1357](http://github.com/aashiasmita1357)
-ENTER NAMES HERE \ 
-Sambit Mukhopadhyay [SambitMukhopadhyay](http://github.com/SambitMukhopadhyay)
-Kashyap Tandel [kashyaptandel1](http://github.com/kashyaptandel1)
-Aashna [aashna0908](http://github.com/aashna0908)
-Rudraksh Gupta [rudraksh168](https://github.com/rudraksh168)
 
 
 ## Task 2
