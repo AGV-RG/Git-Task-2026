@@ -43,6 +43,7 @@ Your entry should maintain alphabetic order and it should be in the format:
 ENTER NAMES HERE \
 Harshit Rana [harshit7744](http://github.com/harshit7744) \
 Aditya Roy [AdityaR17](http://github.com/AdityaR17) \
+Bhavya Abbet [bhavyaabbet](http://github.com/bhavyaabbet) \
 Ayushman Sahoo [ayushman020908](https://github.com/ayushman020908) \
 Debanshu Das [DebanshuDas](https://github.com/DebanshuDas) \
 Shaurya Gupta[Coder0407](https://github.com/Coder0407/Git-Task-2026) \
@@ -77,6 +78,7 @@ Amishee Surya [ambro234](https://github.com/ambro234) \
 Riddhima Verma (https://github.com/volatileserpent) \
 Amarendra Swain [Amarendra-Swain](https://github.com/Amarendra-Swain) \
 Viraat Alegaonkar[viraat240507](https://github.com/viraat240507)
+
 
 
 ## Task 2
