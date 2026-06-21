@@ -48,6 +48,7 @@ Debanshu Das [DebanshuDas](https://github.com/DebanshuDas) \
 Shaurya Gupta[Coder0407](https://github.com/Coder0407/Git-Task-2026) \
 Luv Anand [Luv-Anand](http://github.com/Luv-Anand) \
 Somil Goyal [SomilGoyal164](http://github.com/SomilGoyal164) \
+Samantak Karmakar [samantakk](http://github.com/samantakk) \
 Kanishkk Kingwani [Kanishkk-Kingwani](http://github.com/Kanishkk-Kingwani) \
 Vishwa Pandya [vishwa-pandya](https://github.com/vishwa-pandya) \
 Yatharth Singh [yatharthsing](http://github.com/yatharthsing) \
@@ -68,8 +69,15 @@ Aashi Asmita [aashiasmita1357](http://github.com/aashiasmita1357) \
 Sambit Mukhopadhyay [SambitMukhopadhyay](http://github.com/SambitMukhopadhyay) \
 Kashyap Tandel [kashyaptandel1](http://github.com/kashyaptandel1) \
 Aashna [aashna0908](http://github.com/aashna0908) \
-Rudraksh Gupta [rudraksh168](https://github.com/rudraksh168)
-Visweswara Prasad [vvprasadyarlagadda-arch](http://github.com/vvprasadyarlagadda-arch)
+Visweswara Prasad [vvprasadyarlagadda-arch](http://github.com/vvprasadyarlagadda-arch) \
+Rudraksh Gupta [rudraksh168](https://github.com/rudraksh168) \
+Nakul Patil [Skywalker-812](https://github.com/Skywalker-812) \
+Rudraksh Gupta [rudraksh168](https://github.com/rudraksh168) \
+Amishee Surya [ambro234](https://github.com/ambro234) \
+Riddhima Verma (https://github.com/volatileserpent) \
+Amarendra Swain [Amarendra-Swain](https://github.com/Amarendra-Swain) \
+Viraat Alegaonkar[viraat240507](https://github.com/viraat240507)
+
 
 ## Task 2
 
