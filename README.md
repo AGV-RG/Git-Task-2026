@@ -75,7 +75,7 @@ Rudraksh Gupta [rudraksh168](https://github.com/rudraksh168) \
 Nakul Patil [Skywalker-812](https://github.com/Skywalker-812) \
 Rudraksh Gupta [rudraksh168](https://github.com/rudraksh168) \
 Amishee Surya [ambro234](https://github.com/ambro234) \
-Riddhima Verma (https://github.com/volatileserpent) \
+Riddhima Verma (https://github.com/volatileserpent) \comment
 Amarendra Swain [Amarendra-Swain](https://github.com/Amarendra-Swain) \
 Viraat Alegaonkar[viraat240507](https://github.com/viraat240507)
 
