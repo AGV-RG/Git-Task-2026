@@ -77,6 +77,7 @@ Rudraksh Gupta [rudraksh168](https://github.com/rudraksh168) \
 Amishee Surya [ambro234](https://github.com/ambro234) \
 Riddhima Verma (https://github.com/volatileserpent) \
 Amarendra Swain [Amarendra-Swain](https://github.com/Amarendra-Swain) \
+Upayan Gupta [UgKnight06](https://github.com/UgKnight06) \
 Viraat Alegaonkar[viraat240507](https://github.com/viraat240507)
 
 
