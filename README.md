@@ -78,7 +78,7 @@ Amishee Surya [ambro234](https://github.com/ambro234) \
 Riddhima Verma (https://github.com/volatileserpent) \
 Amarendra Swain [Amarendra-Swain](https://github.com/Amarendra-Swain) \
 Viraat Alegaonkar[viraat240507](https://github.com/viraat240507)
-
+Puneet Dhandale [Puneet-Dhandale](https://github.com/Puneet-Dhandale) \
 
 
 ## Task 2
